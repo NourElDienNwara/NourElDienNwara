@@ -40,55 +40,6 @@ Passion  : Building software that scales — and teams that thrive
 
 ---
 
-## ◈ What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Mobile Development
-My primary expertise. I build production-ready Flutter apps with:
-- Clean Architecture & BLoC / MVVM patterns
-- Smooth UI, custom animations & widgets
-- REST API integration & state management
-- Cross-platform Android & iOS delivery
-
-</td>
-<td width="50%" valign="top">
-
-### 👨‍💼 Technical Leadership
-I lead teams with clarity and purpose:
-- Sprint planning & project coordination
-- Code reviews & developer mentoring
-- Agile workflow facilitation
-- Bridging technical & business goals
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 Backend Development
-Supporting full-cycle development:
-- Python & Django REST APIs
-- MySQL database design
-- API architecture & integration
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Quality Assurance
-Ensuring what ships actually works:
-- Manual & Automation Testing
-- Software QA best practices
-- Bug tracking & test documentation
-
-</td>
-</tr>
-</table>
-
----
-
 ## ◈ Tech Stack
 
 ### Core — Mobile
@@ -160,10 +111,10 @@ Ensuring what ships actually works:
 
 | # | Project | Stack | Description |
 |---|---------|-------|-------------|
-| 01 | Coming Soon | Flutter · Dart · REST API | Replace with your project name & description |
-| 02 | Coming Soon | Flutter · BLoC · Firebase | Replace with your project name & description |
-| 03 | Coming Soon | Python · Django · MySQL | Replace with your project name & description |
-| 04 | Coming Soon | HTML · Bootstrap | Replace with your project name & description |
+| 01 | Islami | Flutter · Dart | A modern Islamic application that provides Quran reading, Hadith, prayer times, Tasbeeh, and daily Azkar with a clean and user-friendly interface. |
+| 02 | Evently | Flutter · Dart · Firebase | An event management application that allows users to create, explore, and manage events with real-time updates and Firebase authentication. |
+| 03 | Graduation project | Flutter · Dart · Firebase · API | SOON... |
+| 04 | Portfolio | Django · HTML · Bootstrap | A personal portfolio website showcasing my projects, technical skills, certifications, and achievements with a responsive and professional design. |
 
 ---
 
@@ -184,9 +135,9 @@ Ensuring what ships actually works:
 
 | Platform | Link |
 |---|---|
-| 💼 **LinkedIn** | [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME) |
-| 🌐 **Portfolio** | [YOUR_PORTFOLIO.com](https://YOUR_PORTFOLIO.com) |
-| 📧 **Email** | [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/nour-el-dien-nwara](www.linkedin.com/in/nour-el-dien-nwara) |
+| 🌐 **Portfolio** | [noureldiennwara.pythonanywhere.com](https://noureldiennwara.pythonanywhere.com/) |
+| 📧 **Email** | [noureldiennwara312@gmail.com](mailto:noureldiennwara312@gmail.com) |
 
 *Open to freelance projects, full-time roles, and technical collaboration.*
 
