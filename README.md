@@ -135,7 +135,7 @@ Passion  : Building software that scales — and teams that thrive
 
 | Platform | Link |
 |---|---|
-| 💼 **LinkedIn** | [linkedin.com/in/nour-el-dien-nwara](www.linkedin.com/in/nour-el-dien-nwara) |
+| 💼 **LinkedIn** | [linkedin.com/in/nour-el-dien-nwara](https://www.linkedin.com/in/nour-el-dien-nwara/) |
 | 🌐 **Portfolio** | [noureldiennwara.pythonanywhere.com](https://noureldiennwara.pythonanywhere.com/) |
 | 📧 **Email** | [noureldiennwara312@gmail.com](mailto:noureldiennwara312@gmail.com) |
 
